@@ -1,10 +1,10 @@
-print("Please show me the lives number")
+print("Please enter me the lives number")
 lives = int(input())
 
-print("Please show me the energy number")
+print("Please enter me the energy number")
 energy = int(input())
 
-print("Please show me the shield level")
+print("Please enter me the shield level")
 shield = int(input())
 
 print("Health has been set!")
